@@ -2,3 +2,4 @@ apple fruit file
 another line\n
 new branch line
 melon
+blueberry
