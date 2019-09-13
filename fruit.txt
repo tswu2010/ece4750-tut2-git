@@ -1,1 +1,2 @@
 apple fruit file
+another line\n
